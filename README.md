@@ -9,7 +9,7 @@ Full stack web developer
 * 🌍  I'm based in Kerala
 * ✉️  You can contact me at [jasmeeazeez813@gmail.com]
 * 🚀  I'm currently a freelancer
-* 🧠  I'm learning Full Stack  Web Decelopment
+* 🧠  I'm learning Full Stack  Web Development
 * 🤝  I'm open to collaborating on React Apps, Projects to develop website
 
 ### Skills
